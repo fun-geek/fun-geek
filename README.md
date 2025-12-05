@@ -52,7 +52,7 @@ I actively solve problems to sharpen my logic. Check out my profiles:
 <br />
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/[Your LeetCode Username]?theme=tokyonight&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/chatterjeemeghna?theme=tokyonight&font=baloo&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 ---
