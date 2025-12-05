@@ -76,7 +76,6 @@ I actively solve problems to sharpen my logic. Check out my profiles:
 
 ---
 
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 
