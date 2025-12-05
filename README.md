@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <h1>Hi there, I'm <a href="https://github.com/fun-geek">fun-geek</a>! 👨‍💻</h1>
+  <h1>Hi there, I'm <a href="https://github.com/fun-geek">Meghna Chatterjee</a>! 👨‍💻</h1>
 
   <h3>GDG On-Campus Lead @ BCREC | C++ & DSA Specialist | Full Stack Developer</h3>
 
