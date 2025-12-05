@@ -78,10 +78,14 @@ I actively solve problems to sharpen my logic. Check out my profiles:
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fun-geek&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Github Stats" />
+  
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fun-geek&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fun-geek&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </div>
 <!--
 **fun-geek/fun-geek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
