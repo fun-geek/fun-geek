@@ -7,6 +7,31 @@
 
 # MEGHNA CHATTERJEE
 
+
+## WHO AM I?
+
+I'm **Meghna Chatterjee** — a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning, developer, hackathon enthusiast, and technology community leader.
+
+My journey in technology has been driven by curiosity, experimentation, and the desire to build things that solve real problems.
+
+I started with programming fundamentals and gradually explored software development, machine learning, artificial intelligence, and system architecture. Today, I enjoy working at the intersection of **Applied AI, Full Stack Engineering, and AI Infrastructure & Security**.
+
+I'm not someone who wants to learn technology only theoretically. I believe in turning ideas into working products, participating in hackathons, collaborating with developers, and learning through real engineering challenges.
+
+### What defines me?
+
+- **Builder:** I enjoy turning ideas into functional applications, prototypes, and engineering projects.
+- **Problem Solver:** I actively practice Data Structures and Algorithms and participate in competitive programming.
+- **Hackathon Enthusiast:** A five-time hackathon winner, with experience building solutions under pressure and collaborating with teams.
+- **Community Leader:** Lead Organiser at GDG on Campus, Dr. B. C. Roy Engineering College, helping create opportunities for students to learn, build, and collaborate.
+- **AI Explorer:** Interested in deep learning, computer vision, LLMs, and intelligent applications.
+- **Security-Minded Engineer:** Exploring agent contracts, runtime enforcement, and AI governance through Scyvera.
+
+### My Engineering Philosophy
+
+I don't believe in stopping at an idea. I believe in understanding the problem, building the solution, testing it, and making it better.
+
+**Never I lose — either I win or I learn.**
 ### Applied AI Engineer · AI Infrastructure & Security · Software Developer
 
 **Engineering Intelligence. Governing Autonomy.**
@@ -269,6 +294,37 @@ I regularly work on Data Structures and Algorithms to strengthen computational t
 
 ---
 
+## HACKATHONS & COMPETITIVE ACHIEVEMENTS
+
+Hackathons have played an important role in my engineering journey. They have taught me to think under pressure, collaborate with teams, approach unfamiliar problems, and turn ideas into working prototypes.
+
+### Highlights
+
+- **5× Hackathon Winner** — Recognized for building innovative solutions through competitive development.
+- **Hack Zenith Winner** — Won with the PseudoNoma project.
+- **Hack Maze Campus Winner** — Secured first place in the campus hackathon.
+- **Smart India Hackathon (SIH)** — Internal Finalist with the QVeritas project.
+- **Project Development** — Experience building solutions across AI, full-stack development, security, and emerging technologies.
+
+### Beyond Competitions
+
+- Lead Organiser at GDG on Campus, BCREC.
+- Experience organizing technical activities and developer-community initiatives.
+- Project mentoring and peer collaboration.
+- Open-source development and continuous technical learning.
+
+I see every hackathon as more than a competition: it is an opportunity to experiment, collaborate, fail fast, and engineer better solutions.
+
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/5×-Hackathon_Winner-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SIH-Internal_Finalist-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GDG-Lead_Organiser-4285F4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CGPA-9.5%2F10-16A34A?style=for-the-badge" />
+
+</div>
+
 ## 09 / GITHUB ANALYTICS
 
 <div align="center">
@@ -311,6 +367,18 @@ Durgapur, West Bengal, India.
 
 Higher Secondary — WBBSE, 2024.
 
+
+
+### Research & Development — NIT Durgapur
+
+Exploring research-driven engineering, technical innovation, and the development of practical solutions through R&D activities at **NIT Durgapur**.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/5×-Hackathon_Winner-FFD700?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/R%26D-NIT_Durgapur-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SIH-Internal_Finalist-16A34A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GDG-Lead_Organiser-4285F4?style=for-the-badge"/>
+</div>
 ---
 
 ## 12 / LET'S CONNECT
@@ -339,4 +407,3 @@ Interested in engineering collaboration, AI infrastructure, applied AI, open-sou
 <sub>Designed and maintained by Meghna Chatterjee.</sub>
 
 </div>
-
