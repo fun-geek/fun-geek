@@ -1,0 +1,25 @@
+<svg viewBox="0 0 1200 564" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Career as a git log">
+<defs><style>
+  text{font-family:'Courier New',monospace;font-size:19px}
+  .l{opacity:0;animation:s .01s forwards} @keyframes s{to{opacity:1}}
+  .b{animation:b 1s steps(1) infinite} @keyframes b{50%{opacity:0}}
+</style></defs>
+<rect width="1200" height="564" rx="16" fill="#0e0f13"/>
+<rect width="1200" height="44" rx="16" fill="#1a1b21"/><rect y="28" width="1200" height="16" fill="#1a1b21"/>
+<circle cx="28" cy="22" r="7" fill="#ff5f57"/><circle cx="52" cy="22" r="7" fill="#febc2e"/><circle cx="76" cy="22" r="7" fill="#28c840"/>
+<text x="600" y="28" text-anchor="middle" font-size="14" fill="#8b8a84">meghna@durgapur: ~/career</text>
+<text x="52" y="100" fill="#34a853">meghna@durgapur<tspan fill="#8b8a84">:</tspan><tspan fill="#4285f4">~/career</tspan><tspan fill="#8b8a84">$</tspan> <tspan fill="#e6e2d6">git log --oneline --decorate</tspan></text>
+<text class="l" x="52" y="150" style="animation-delay:0.50s"><tspan fill="#ea4335">*</tspan> <tspan fill="#fbbc04">a1f09c2</tspan> <tspan fill="#fbbc04">(HEAD -> main, tag: scyvera)</tspan> <tspan fill="#e6e2d6">feat: ship Scyvera, contract-governed AI agents</tspan></text>
+<text class="l" x="52" y="184" style="animation-delay:0.85s"><tspan fill="#ea4335">*</tspan> <tspan fill="#fbbc04">7be41d8</tspan> <tspan fill="#fbbc04">(tag: horizon-2025)</tspan> <tspan fill="#e6e2d6">win: Horizon 2025, Certificate of Winner</tspan></text>
+<text class="l" x="52" y="218" style="animation-delay:1.20s"><tspan fill="#ea4335">*</tspan> <tspan fill="#fbbc04">c93a60e</tspan> <tspan fill="#e6e2d6">feat(styme): migrate to MERN, +40% scalability</tspan></text>
+<text class="l" x="52" y="252" style="animation-delay:1.55s"><tspan fill="#ea4335">*</tspan> <tspan fill="#fbbc04">5d2e8f1</tspan> <tspan fill="#e6e2d6">feat(styme): Gemini tutoring agents, -25% latency</tspan></text>
+<text class="l" x="52" y="286" style="animation-delay:1.90s"><tspan fill="#ea4335">*</tspan> <tspan fill="#fbbc04">e18b7a3</tspan> <tspan fill="#e6e2d6">intern(indiquant): REST APIs, -20% endpoint overhead</tspan></text>
+<text class="l" x="52" y="320" style="animation-delay:2.25s"><tspan fill="#ea4335">*</tspan> <tspan fill="#fbbc04">02c4f9b</tspan> <tspan fill="#e6e2d6">feat: real-time deepfake detector, 90% acc, &lt;50ms</tspan></text>
+<text class="l" x="52" y="354" style="animation-delay:2.60s"><tspan fill="#ea4335">*</tspan> <tspan fill="#fbbc04">9a6d3e7</tspan> <tspan fill="#e6e2d6">lead: GDG on Campus, 10+ events, 500+ members</tspan></text>
+<text class="l" x="52" y="388" style="animation-delay:2.95s"><tspan fill="#ea4335">*</tspan> <tspan fill="#fbbc04">3f7c1b5</tspan> <tspan fill="#fbbc04">(tag: sih)</tspan> <tspan fill="#e6e2d6">hack: Smart India Hackathon, internal finalist</tspan></text>
+<text class="l" x="52" y="422" style="animation-delay:3.30s"><tspan fill="#ea4335">*</tspan> <tspan fill="#fbbc04">b08e5a4</tspan> <tspan fill="#e6e2d6">win: 4x hackathons (Hack Zenith, Hack Maze)</tspan></text>
+<text class="l" x="52" y="456" style="animation-delay:3.65s"><tspan fill="#ea4335">*</tspan> <tspan fill="#fbbc04">61d2c90</tspan> <tspan fill="#fbbc04">(origin/rank-1)</tspan> <tspan fill="#e6e2d6">academic: Department Topper, 9.5 CGPA</tspan></text>
+<text class="l" x="52" y="490" style="animation-delay:4.00s"><tspan fill="#ea4335">*</tspan> <tspan fill="#fbbc04">000cafe</tspan> <tspan fill="#e6e2d6">init: B.Tech CSE (AI &amp; ML), BCREC, 2024</tspan></text>
+
+<text class="b" x="52" y="538" fill="#34a853">$ <tspan fill="#fbbc04">▌</tspan></text>
+</svg>
