@@ -1,409 +1,264 @@
-<!-- ===================================================== -->
-<!-- MEGHNA CHATTERJEE | GITHUB PROFILE README -->
-<!-- Engineering Intelligence. Governing Autonomy. -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-# MEGHNA CHATTERJEE
+<img src="assets/hero.svg" alt="Meghna Chatterjee - 3D animated banner" width="100%"/>
 
-
-## WHO AM I?
-
-I'm **Meghna Chatterjee** — a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning, developer, hackathon enthusiast, and technology community leader.
-
-My journey in technology has been driven by curiosity, experimentation, and the desire to build things that solve real problems.
-
-I started with programming fundamentals and gradually explored software development, machine learning, artificial intelligence, and system architecture. Today, I enjoy working at the intersection of **Applied AI, Full Stack Engineering, and AI Infrastructure & Security**.
-
-I'm not someone who wants to learn technology only theoretically. I believe in turning ideas into working products, participating in hackathons, collaborating with developers, and learning through real engineering challenges.
-
-### What defines me?
-
-- **Builder:** I enjoy turning ideas into functional applications, prototypes, and engineering projects.
-- **Problem Solver:** I actively practice Data Structures and Algorithms and participate in competitive programming.
-- **Hackathon Enthusiast:** A five-time hackathon winner, with experience building solutions under pressure and collaborating with teams.
-- **Community Leader:** Lead Organiser at GDG on Campus, Dr. B. C. Roy Engineering College, helping create opportunities for students to learn, build, and collaborate.
-- **AI Explorer:** Interested in deep learning, computer vision, LLMs, and intelligent applications.
-- **Security-Minded Engineer:** Exploring agent contracts, runtime enforcement, and AI governance through Scyvera.
-
-### My Engineering Philosophy
-
-I don't believe in stopping at an idea. I believe in understanding the problem, building the solution, testing it, and making it better.
-
-**Never I lose — either I win or I learn.**
-### Applied AI Engineer · AI Infrastructure & Security · Software Developer
-
-**Engineering Intelligence. Governing Autonomy.**
-
-Building intelligent applications, exploring secure AI infrastructure, and engineering software systems.
+<a href="https://github.com/fun-geek/fun-geek">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Full+Stack+%26+Machine+Learning+Developer;Java+Backend+%C2%B7+Microservices;Building+AI+agents+you+can+actually+govern;Department+Topper+%C2%B7+CGPA+9.5%2F10;Never+I+lose.+Either+I+win+or+I+learn." alt="Typing animation"/>
+</a>
 
 <br/>
 
-<a href="https://github.com/fun-geek">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/meghna-chatterjee-b80462325/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://leetcode.com/chatterjeemeghna">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://codeforces.com/profile/Meghna98">
-  <img src="https://img.shields.io/badge/Codeforces-445F9D?style=flat-square&logo=codeforces&logoColor=white" />
-</a>
-<a href="mailto:chatterjeemeghna16@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
+<a href="https://github.com/fun-geek"><img src="https://img.shields.io/badge/GitHub-fun--geek-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/meghna-chatterjee-b80462325/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/chatterjeemeghna"><img src="https://img.shields.io/badge/LeetCode-150%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://codeforces.com/profile/Meghna98"><img src="https://img.shields.io/badge/Codeforces-Meghna98-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="mailto:chatterjeemeghna16@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=fun-geek&style=flat-square&color=64748b&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/badge/4%C3%97-Hackathon_Winner-FFD700?style=for-the-badge&labelColor=0b0820"/>
+<img src="https://img.shields.io/badge/SIH-Internal_Finalist-7C3AED?style=for-the-badge&labelColor=0b0820"/>
+<img src="https://img.shields.io/badge/GDG_on_Campus-Lead-4285F4?style=for-the-badge&labelColor=0b0820"/>
+<img src="https://img.shields.io/badge/CSE_(AI%26ML)-Rank_1-22D3EE?style=for-the-badge&labelColor=0b0820"/>
+<img src="https://img.shields.io/badge/Open_Source-7%C3%97_Contributor-34D399?style=for-the-badge&labelColor=0b0820"/>
 
 </div>
-
----
-
-## 01 / ABOUT
-
-I'm Meghna Chatterjee, a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning at **Dr. B. C. Roy Engineering College**.
-
-My engineering interests lie at the intersection of intelligent software, AI infrastructure, and secure autonomous systems.
-
-I focus on understanding how intelligent systems work, building practical applications, and exploring the infrastructure required to make AI agents more controlled, accountable, and reliable.
-
-My work revolves around three engineering dimensions:
-
-- **Applied AI:** Developing intelligent applications through machine learning, deep learning, computer vision, and LLMs.
-- **AI Infrastructure & Security:** Exploring agent contracts, runtime enforcement, governance, and secure AI architectures through Scyvera.
-- **Algorithmic Engineering:** Strengthening problem-solving foundations through Data Structures and Algorithms and competitive programming.
-
-I believe good engineering is not just about making systems work. It is about understanding, designing, validating, and improving them.
-
----
-
-## 02 / ENGINEERING DOMAINS
-
-### 01. APPLIED AI
-
-Building intelligent applications that connect machine learning techniques with practical engineering.
-
-| Domain | Focus |
-|---|---|
-| Machine Learning | Model development and evaluation |
-| Deep Learning | Neural networks and representation learning |
-| Computer Vision | Image processing and visual intelligence |
-| LLMs | Large language model applications |
-| Generative AI | Intelligent content and application workflows |
-| AI Applications | Practical AI-powered software systems |
-
-**Technology ecosystem**
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" alt="Applied AI technologies"/>
-</p>
-
-### 02. AI INFRASTRUCTURE & SECURITY
-
-Exploring the engineering foundations required to govern autonomous AI systems.
-
-| Area | Engineering Focus |
-|---|---|
-| Agent Governance | Structured control over agent behavior |
-| Agent Contracts | Defining capabilities and constraints |
-| Contract Validation | Validating structured agent policies |
-| Runtime Enforcement | Applying policies during execution |
-| Security Architecture | Controlled and restricted agent operations |
-| Auditability | Traceability and accountability |
-
-**Flagship initiative: SCYVERA**
-
-AI Agent Contract Governance & Runtime Enforcement Framework.
-
-### 03. ALGORITHMIC ENGINEERING
-
-Developing strong computational thinking through algorithmic problem-solving.
-
-- Data Structures and Algorithms
-- Searching and Sorting
-- Binary Search
-- Recursion and Backtracking
-- Trees and Graphs
-- Dynamic Programming
-- Greedy Algorithms
-- Complexity Analysis
-
-Platforms: LeetCode · Codeforces · CodeChef
-
----
-
-## 03 / FLAGSHIP ENGINEERING PROJECT
-
-<div align="center">
-
-# SCYVERA
-
-### AI Agent Contract Governance & Runtime Enforcement Framework
-
-**Making autonomous AI systems more controllable, accountable, and governed.**
-
-<a href="https://github.com/Skull-boy/agent-contracts">
-  <img src="https://img.shields.io/badge/Explore_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-### The Engineering Problem
-
-As AI agents interact with tools, APIs, external services, and other systems, controlling their behavior becomes an important engineering challenge.
-
-Scyvera explores a contract-driven approach to AI agent governance.
-
-### Engineering Direction
-
-- Structured agent contracts.
-- Contract validation.
-- Semantic analysis.
-- Runtime policy enforcement.
-- Default-deny authorization principles.
-- Approval-controlled operations.
-- Auditability and governance.
-- Secure agent integrations.
-
-### Architectural Focus
-
-The framework explores how policies can be defined, validated, and enforced around AI agent operations.
-
-Its goal is to move beyond simply instructing agents what to do and toward establishing structured constraints on what they are permitted to do.
-
-**Repository:** [Skull-boy/agent-contracts](https://github.com/Skull-boy/agent-contracts)
-
----
-
-## 04 / SELECTED PROJECTS
-
-A selection of engineering work across AI, software development, and algorithmic problem-solving.
-
-| Project | Description | Domain |
-|---|---|---|
-| [Scyvera](https://github.com/Skull-boy/agent-contracts) | Contract-driven AI agent governance and runtime enforcement | AI Infrastructure |
-| [SugarSense AI](https://github.com/fun-geek/SugarSense) | Local-first health data tracking and analytics application | Applied AI |
-| [StudyBuddyy](https://github.com/fun-geek/StudyBuddyy) | Student-focused application exploring digital engagement and productivity | Full Stack |
-| [Divine Astayama](https://github.com/fun-geek/Divine_Astayama) | Image-based particle visualization and interactive web experience | Creative Engineering |
-| [DSA Adventure](https://github.com/fun-geek/DSAAventure) | Structured algorithmic problem-solving repository | Algorithms |
-| [DeepShield AI](https://github.com/fun-geek/Deepshield.ai) | AI-oriented security project | AI & Security |
-
-*Project descriptions and repository links should be updated as implementations evolve.*
-
----
-
-## 05 / PROFESSIONAL EXPERIENCE
-
-### Founder & Project Lead — Styme
-**September 2025 – Present**
-
-- Leading product and technical development.
-- Working on AI-powered tutoring and application architecture.
-- Developing full-stack solutions and backend services.
-- Coordinating development activities and system improvements.
-
-### Full Stack Developer Intern — IndiQuant
-**October 2025 – December 2025**
-
-- Developed RESTful backend services using Node.js and Express.
-- Worked with MongoDB and application data architecture.
-- Implemented frontend integration using React.
-- Worked on application reliability and backend development.
-
-### GDG on Campus — Dr. B. C. Roy Engineering College
-
-Developer community leadership, technical collaboration, event organization, and student engagement.
-
----
-
-## 06 / TECHNOLOGY ECOSYSTEM
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,sql&theme=dark" alt="Programming languages"/>
-</p>
-
-### Applied AI & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" alt="AI and ML technologies"/>
-</p>
-
-Machine Learning · Deep Learning · Computer Vision · LLMs · Generative AI
-
-### Backend & Full Stack Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,django,mongodb,mysql,firebase&theme=dark" alt="Backend and full stack technologies"/>
-</p>
-
-REST APIs · Backend Architecture · Database Design · Full Stack Applications
-
-### Development & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&theme=dark" alt="Development tools"/>
-</p>
-
----
-
-## 07 / ALGORITHMIC THINKING & COMPETITIVE PROGRAMMING
-
-I regularly work on Data Structures and Algorithms to strengthen computational thinking, problem decomposition, and optimization.
-
-<div align="center">
-
-### LEETCODE
-
-<a href="https://leetcode.com/chatterjeemeghna">
-  <img src="https://leetcard.jacoblin.cool/chatterjeemeghna?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode statistics"/>
-</a>
-
-<br/><br/>
-
-<a href="https://leetcode.com/chatterjeemeghna">
-  <img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/profile/Meghna98">
-  <img src="https://img.shields.io/badge/Codeforces-View_Profile-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 08 / LEADERSHIP & ACHIEVEMENTS
-
-- Smart India Hackathon — Internal Finalist.
-- Department Topper — CSE (AI & ML).
-- 9.5/10 CGPA — as stated in my resume.
-- Multiple hackathon achievements.
-- GDG on Campus leadership.
-- Open-source development and technical collaboration.
-
----
-
-## HACKATHONS & COMPETITIVE ACHIEVEMENTS
-
-Hackathons have played an important role in my engineering journey. They have taught me to think under pressure, collaborate with teams, approach unfamiliar problems, and turn ideas into working prototypes.
-
-### Highlights
-
-- **5× Hackathon Winner** — Recognized for building innovative solutions through competitive development.
-- **Hack Zenith Winner** — Won with the PseudoNoma project.
-- **Hack Maze Campus Winner** — Secured first place in the campus hackathon.
-- **Smart India Hackathon (SIH)** — Internal Finalist with the QVeritas project.
-- **Project Development** — Experience building solutions across AI, full-stack development, security, and emerging technologies.
-
-### Beyond Competitions
-
-- Lead Organiser at GDG on Campus, BCREC.
-- Experience organizing technical activities and developer-community initiatives.
-- Project mentoring and peer collaboration.
-- Open-source development and continuous technical learning.
-
-I see every hackathon as more than a competition: it is an opportunity to experiment, collaborate, fail fast, and engineer better solutions.
-
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/5×-Hackathon_Winner-FFD700?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SIH-Internal_Finalist-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GDG-Lead_Organiser-4285F4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CGPA-9.5%2F10-16A34A?style=for-the-badge" />
-
-</div>
-
-## 09 / GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fun-geek&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fun-geek&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=fun-geek&theme=transparent&hide_border=true" alt="GitHub contribution streak"/>
+## 🧊 `> whoami`
+
+```ts
+const meghna = {
+  role:      "Full Stack & Machine Learning Developer",
+  studying:  "B.Tech CSE (AI & ML) @ Dr. B. C. Roy Engineering College",
+  cgpa:      9.5,                       // Department Topper, Rank 1
+  leads:     ["Styme", "GDG on Campus BCREC"],
+  buildsWith:["Java", "Python", "Node.js", "React", "PyTorch", "TensorFlow"],
+  obsessedWith: ["AI agent governance", "computer vision", "clean backends"],
+  motto:     "Never I lose — either I win or I learn.",
+};
+```
+
+<table>
+<tr>
+<td width="25%" align="center"><h3>🧠<br/>Applied AI</h3><sub>Deep learning · Computer vision · LLMs · Agentic AI</sub></td>
+<td width="25%" align="center"><h3>⚙️<br/>Backend</h3><sub>Java · Node.js · Django REST · Microservices</sub></td>
+<td width="25%" align="center"><h3>🛡️<br/>AI Security</h3><sub>Agent contracts · Runtime enforcement · Governance</sub></td>
+<td width="25%" align="center"><h3>🧩<br/>Algorithms</h3><sub>150+ DSA problems · Competitive programming</sub></td>
+</tr>
+</table>
+
+---
+
+## 🌆 My Contribution City (3D)
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
+  <img alt="3D contribution graph of fun-geek" src="profile-3d-contrib/profile-night-view.svg" width="100%">
+</picture>
+
+<sub>Every building is a day of commits. Rebuilt automatically every night.</sub>
 
 </div>
 
 ---
 
-## 10 / CURRENT ENGINEERING FOCUS
+## 🛰️ Flagship: SCYVERA
 
-| Direction | Current Focus |
+> **AI Agent Contract Governance & Runtime Enforcement Framework**
+> *Moving beyond telling agents what to do, toward defining what they are permitted to do.*
+
+```mermaid
+flowchart LR
+    A[🤖 AI Agent] -->|requests action| B{{Contract Validator}}
+    B -->|semantic analysis| C[Policy Engine]
+    C -->|default-deny| D{Allowed?}
+    D -->|yes| E[✅ Execute tool / API]
+    D -->|needs approval| F[🙋 Human approval]
+    D -->|no| G[⛔ Blocked]
+    E --> H[(📜 Audit log)]
+    F --> H
+    G --> H
+```
+
+| Layer | What it does |
 |---|---|
-| Applied AI | Deep Learning, Computer Vision, LLM applications |
-| AI Infrastructure | Agent Contracts, Governance, Runtime Enforcement |
-| Security | Policy Architecture and Controlled Agent Operations |
-| Software Engineering | Java Backend, APIs, Microservices |
-| Algorithms | DSA, Competitive Programming, Optimization |
+| **Agent contracts** | Structured definitions of capabilities and constraints |
+| **Validation** | Contract validation and semantic analysis |
+| **Enforcement** | Runtime policy enforcement with default-deny authorization |
+| **Approvals** | Approval-controlled sensitive operations |
+| **Audit** | Traceability and accountability for every action |
+
+[![Explore Scyvera](https://img.shields.io/badge/Explore-Scyvera_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Skull-boy/agent-contracts)
 
 ---
 
-## 11 / EDUCATION
+## 🚀 Projects
 
-**Dr. B. C. Roy Engineering College**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-B.Tech — Computer Science & Engineering (AI & ML)
+### 👁️ Real-Time Deepfake Detection
+ResNet + InceptionNet pipeline that catches spatial-temporal anomalies.
 
-2024 – 2028
+- **90%** detection accuracy
+- **< 50 ms** inference on live-stream frames (OpenCV pipeline)
 
-Durgapur, West Bengal, India.
+`Python` `TensorFlow` `PyTorch` `OpenCV`
 
-**Tulsi Rani Balika Siksha Sadan**
+[**Live demo →**](https://deepfake-realtime.vercel.app)
 
-Higher Secondary — WBBSE, 2024.
+</td>
+<td width="50%" valign="top">
 
+### 🚁 AI-Powered Autonomous Drone
+Real-time computer-vision subsystem for detection and tracking.
 
+- Custom **YOLO** models trained in **5+** environments
+- **15%** better bounding-box inference
 
-### Research & Development — NIT Durgapur
+`Python` `OpenCV` `Deep Learning` `Sensor Fusion`
 
-Exploring research-driven engineering, technical innovation, and the development of practical solutions through R&D activities at **NIT Durgapur**.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ College Club Discovery Platform
+Multi-tier club ecosystem with JWT auth and full CRUD tooling.
+
+- **30%** faster cross-collection fetches via index tuning
+
+`React` `Node.js` `Express` `MongoDB`
+
+[**Live demo →**](https://campus-hero.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 More builds
+- [SugarSense AI](https://github.com/fun-geek/SugarSense): local-first health analytics
+- [StudyBuddyy](https://github.com/fun-geek/StudyBuddyy): student productivity app
+- [DeepShield AI](https://github.com/fun-geek/Deepshield.ai): AI security project
+- [Divine Astayama](https://github.com/fun-geek/Divine_Astayama): particle visualization
+- [DSA Adventure](https://github.com/fun-geek/DSAAventure): algorithm practice
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+```text
+2025 ─────────────────────────────────────────────────────────────▶ now
+  │
+  ├── Aug 2025 ▸ GDG on Campus Lead ............ BCREC          (ongoing)
+  ├── Sep 2025 ▸ Founder & Project Lead ........ Styme          (ongoing)
+  └── Oct–Dec  ▸ Full Stack Developer Intern ... IndiQuant
+```
+
+<details open>
+<summary><b>🧑‍🚀 Founder & Project Lead · Styme</b> <sub>(Sep 2025 – Present)</sub></summary>
+<br/>
+
+- Architected a real-time ML framework on the **Gemini API** for automated tutoring agents: **25% lower latency**
+- Led a cross-functional team through the full SDLC; migrated core infrastructure to **MERN** for **40% better scalability**
+- Built **Django REST** and **Java** backend services securely handling **500+ student profiles**
+
+</details>
+
+<details>
+<summary><b>💻 Full Stack Developer Intern · IndiQuant</b> <sub>(Oct – Dec 2025)</sub></summary>
+<br/>
+
+- Engineered secure REST APIs in **Node.js / Express**: **20% less endpoint overhead**
+- Integrated **MongoDB** schemas with secure state-management across the stack
+- Managed routing and async service layers in **React**: **95% better API connectivity reliability**
+
+</details>
+
+<details>
+<summary><b>🌐 GDG on Campus Lead · BCREC</b> <sub>(Aug 2025 – Present)</sub></summary>
+<br/>
+
+- Directed full-stack tracks, raising campus-wide engagement by **35%**
+- Organized **10+ national-level events** and multi-tier hackathons for **500+ members**
+
+</details>
+
+---
+
+## 🧰 Tech Arsenal
 
 <div align="center">
-  <img src="https://img.shields.io/badge/5×-Hackathon_Winner-FFD700?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/R%26D-NIT_Durgapur-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SIH-Internal_Finalist-16A34A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GDG-Lead_Organiser-4285F4?style=for-the-badge"/>
+
+| | |
+|:--|:--|
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,mysql&theme=dark"/> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark"/> |
+| **Web & Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,django,mongodb,firebase&theme=dark"/> |
+| **Cloud & Tools** | <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,linux&theme=dark"/> |
+
+<sub>LLMs · Prompt Engineering · Chain-of-Thought · Agentic AI · Generative AI · CI/CD · System Design · OOP · OS · DBMS</sub>
+
 </div>
+
 ---
 
-## 12 / LET'S CONNECT
-
-Interested in engineering collaboration, AI infrastructure, applied AI, open-source projects, and challenging software problems.
+## 🏆 Trophy Room
 
 <div align="center">
 
-<a href="https://github.com/fun-geek">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/meghna-chatterjee-b80462325/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/chatterjeemeghna">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="mailto:chatterjeemeghna16@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+| 🥇 | 🎯 | 🎓 | 🧩 |
+|:--:|:--:|:--:|:--:|
+| **4× Hackathon Winner**<br/><sub>Hack Zenith · Hack Maze Campus</sub> | **SIH Internal Finalist**<br/><sub>Smart India Hackathon</sub> | **Department Topper**<br/><sub>CSE (AI & ML) · 9.5 CGPA</sub> | **150+ DSA Solved**<br/><sub>LeetCode · Codeforces</sub> |
 
-<br/><br/>
+</div>
 
-**ENGINEERING INTELLIGENCE. GOVERNING AUTONOMY.**
+[![LeetCode Stats](https://leetcard.jacoblin.cool/chatterjeemeghna?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/chatterjeemeghna)
 
-<sub>Designed and maintained by Meghna Chatterjee.</sub>
+---
+
+## 🎓 Education
+
+**Dr. B. C. Roy Engineering College**, Durgapur, West Bengal
+B.Tech in Computer Science & Engineering (AI & ML) · 2024 – 2028 · **CGPA 9.5 / 10**
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fun-geek&show_icons=true&hide_border=true&theme=radical&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fun-geek&layout=compact&hide_border=true&theme=radical" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=fun-geek&theme=radical&hide_border=true" width="80%"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/fun-geek/fun-geek/output/github-snake-dark.svg" alt="Snake eating my contributions" width="100%"/>
+
+</div>
+
+---
+
+## 🤝 Let's Build Something
+
+Open to collaboration on **applied AI**, **AI infrastructure**, **open source**, and hard backend problems.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/meghna-chatterjee-b80462325/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:chatterjeemeghna16@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer&text=Engineering%20Intelligence.%20Governing%20Autonomy.&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
 
 </div>
