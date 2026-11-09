@@ -1,0 +1,131 @@
+<svg viewBox="0 0 1200 540" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Achievements unlocked">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0820"/><stop offset="1" stop-color="#06222f"/></linearGradient>
+  <linearGradient id="t" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fbbf24"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+  <style>.fl{animation:fl 4.5s ease-in-out infinite} @keyframes fl{50%{transform:translateY(-6px)}}</style>
+</defs>
+<rect width="1200" height="540" fill="url(#bg)"/>
+<text x="60" y="50" font-family="'Courier New',monospace" font-size="16" fill="#22d3ee" letter-spacing="5">&gt; ACHIEVEMENTS.UNLOCKED</text>
+<text x="60" y="92" font-family="'Segoe UI',Verdana,sans-serif" font-size="30" font-weight="800" fill="url(#t)">6 / 6 badges earned</text>
+
+  <g transform="translate(60,126)">
+    <g class="fl" style="animation-delay:0.0s">
+      <rect width="340" height="170" rx="18" fill="#0f0c29" stroke="#fbbf24" stroke-opacity="0.7" stroke-width="1.5"/>
+      <rect width="340" height="170" rx="18" fill="#fbbf24" opacity="0.07"/>
+      <rect x="22" y="0" width="296" height="5" rx="2.5" fill="#fbbf24"/>
+      <!-- iso cube -->
+      <g transform="translate(272,62) scale(.95)" color="#fbbf24">
+        <polygon points="0,-40 35,-20 0,0 -35,-20" fill="currentColor"/>
+        <polygon points="-35,-20 0,0 0,40 -35,20" fill="currentColor" fill-opacity=".55"/>
+        <polygon points="35,-20 0,0 0,40 35,20" fill="currentColor" fill-opacity=".3"/>
+      </g>
+      <text x="26" y="78" font-family="'Segoe UI',Verdana,sans-serif" font-size="56" font-weight="800" fill="#fbbf24">4×</text>
+      <text x="28" y="112" font-family="'Segoe UI',Verdana,sans-serif" font-size="17" font-weight="700" fill="#e2e8f0" letter-spacing="1.5">HACKATHON WINNER</text>
+      <text x="28" y="136" font-family="'Courier New',monospace" font-size="14" fill="#94a3b8">Hack Zenith · Hack Maze</text>
+      <rect x="28" y="148" width="284" height="6" rx="3" fill="#1e1b3a"/>
+      <rect x="28" y="148" width="0" height="6" rx="3" fill="#fbbf24">
+        <animate attributeName="width" from="0" to="284" dur="1.6s" begin="0.0s" fill="freeze"/>
+      </rect>
+    </g>
+  </g>
+  <g transform="translate(430,126)">
+    <g class="fl" style="animation-delay:0.4s">
+      <rect width="340" height="170" rx="18" fill="#0f0c29" stroke="#a78bfa" stroke-opacity="0.7" stroke-width="1.5"/>
+      <rect width="340" height="170" rx="18" fill="#a78bfa" opacity="0.07"/>
+      <rect x="22" y="0" width="296" height="5" rx="2.5" fill="#a78bfa"/>
+      <!-- iso cube -->
+      <g transform="translate(272,62) scale(.95)" color="#a78bfa">
+        <polygon points="0,-40 35,-20 0,0 -35,-20" fill="currentColor"/>
+        <polygon points="-35,-20 0,0 0,40 -35,20" fill="currentColor" fill-opacity=".55"/>
+        <polygon points="35,-20 0,0 0,40 35,20" fill="currentColor" fill-opacity=".3"/>
+      </g>
+      <text x="26" y="78" font-family="'Segoe UI',Verdana,sans-serif" font-size="56" font-weight="800" fill="#a78bfa">SIH</text>
+      <text x="28" y="112" font-family="'Segoe UI',Verdana,sans-serif" font-size="17" font-weight="700" fill="#e2e8f0" letter-spacing="1.5">INTERNAL FINALIST</text>
+      <text x="28" y="136" font-family="'Courier New',monospace" font-size="14" fill="#94a3b8">Smart India Hackathon</text>
+      <rect x="28" y="148" width="284" height="6" rx="3" fill="#1e1b3a"/>
+      <rect x="28" y="148" width="0" height="6" rx="3" fill="#a78bfa">
+        <animate attributeName="width" from="0" to="284" dur="1.6s" begin="0.6s" fill="freeze"/>
+      </rect>
+    </g>
+  </g>
+  <g transform="translate(800,126)">
+    <g class="fl" style="animation-delay:0.8s">
+      <rect width="340" height="170" rx="18" fill="#0f0c29" stroke="#f472b6" stroke-opacity="0.7" stroke-width="1.5"/>
+      <rect width="340" height="170" rx="18" fill="#f472b6" opacity="0.07"/>
+      <rect x="22" y="0" width="296" height="5" rx="2.5" fill="#f472b6"/>
+      <!-- iso cube -->
+      <g transform="translate(272,62) scale(.95)" color="#f472b6">
+        <polygon points="0,-40 35,-20 0,0 -35,-20" fill="currentColor"/>
+        <polygon points="-35,-20 0,0 0,40 -35,20" fill="currentColor" fill-opacity=".55"/>
+        <polygon points="35,-20 0,0 0,40 35,20" fill="currentColor" fill-opacity=".3"/>
+      </g>
+      <text x="26" y="78" font-family="'Segoe UI',Verdana,sans-serif" font-size="56" font-weight="800" fill="#f472b6">2025</text>
+      <text x="28" y="112" font-family="'Segoe UI',Verdana,sans-serif" font-size="17" font-weight="700" fill="#e2e8f0" letter-spacing="1.5">HORIZON WINNER</text>
+      <text x="28" y="136" font-family="'Courier New',monospace" font-size="14" fill="#94a3b8">Certificate of Winner</text>
+      <rect x="28" y="148" width="284" height="6" rx="3" fill="#1e1b3a"/>
+      <rect x="28" y="148" width="0" height="6" rx="3" fill="#f472b6">
+        <animate attributeName="width" from="0" to="284" dur="1.6s" begin="1.2s" fill="freeze"/>
+      </rect>
+    </g>
+  </g>
+  <g transform="translate(60,326)">
+    <g class="fl" style="animation-delay:1.2000000000000002s">
+      <rect width="340" height="170" rx="18" fill="#0f0c29" stroke="#22d3ee" stroke-opacity="0.7" stroke-width="1.5"/>
+      <rect width="340" height="170" rx="18" fill="#22d3ee" opacity="0.07"/>
+      <rect x="22" y="0" width="296" height="5" rx="2.5" fill="#22d3ee"/>
+      <!-- iso cube -->
+      <g transform="translate(272,62) scale(.95)" color="#22d3ee">
+        <polygon points="0,-40 35,-20 0,0 -35,-20" fill="currentColor"/>
+        <polygon points="-35,-20 0,0 0,40 -35,20" fill="currentColor" fill-opacity=".55"/>
+        <polygon points="35,-20 0,0 0,40 35,20" fill="currentColor" fill-opacity=".3"/>
+      </g>
+      <text x="26" y="78" font-family="'Segoe UI',Verdana,sans-serif" font-size="56" font-weight="800" fill="#22d3ee">#1</text>
+      <text x="28" y="112" font-family="'Segoe UI',Verdana,sans-serif" font-size="17" font-weight="700" fill="#e2e8f0" letter-spacing="1.5">DEPARTMENT TOPPER</text>
+      <text x="28" y="136" font-family="'Courier New',monospace" font-size="14" fill="#94a3b8">CSE (AI &amp; ML) · 9.5 CGPA</text>
+      <rect x="28" y="148" width="284" height="6" rx="3" fill="#1e1b3a"/>
+      <rect x="28" y="148" width="0" height="6" rx="3" fill="#22d3ee">
+        <animate attributeName="width" from="0" to="284" dur="1.6s" begin="1.7999999999999998s" fill="freeze"/>
+      </rect>
+    </g>
+  </g>
+  <g transform="translate(430,326)">
+    <g class="fl" style="animation-delay:1.6s">
+      <rect width="340" height="170" rx="18" fill="#0f0c29" stroke="#34d399" stroke-opacity="0.7" stroke-width="1.5"/>
+      <rect width="340" height="170" rx="18" fill="#34d399" opacity="0.07"/>
+      <rect x="22" y="0" width="296" height="5" rx="2.5" fill="#34d399"/>
+      <!-- iso cube -->
+      <g transform="translate(272,62) scale(.95)" color="#34d399">
+        <polygon points="0,-40 35,-20 0,0 -35,-20" fill="currentColor"/>
+        <polygon points="-35,-20 0,0 0,40 -35,20" fill="currentColor" fill-opacity=".55"/>
+        <polygon points="35,-20 0,0 0,40 35,20" fill="currentColor" fill-opacity=".3"/>
+      </g>
+      <text x="26" y="78" font-family="'Segoe UI',Verdana,sans-serif" font-size="56" font-weight="800" fill="#34d399">150+</text>
+      <text x="28" y="112" font-family="'Segoe UI',Verdana,sans-serif" font-size="17" font-weight="700" fill="#e2e8f0" letter-spacing="1.5">DSA PROBLEMS SOLVED</text>
+      <text x="28" y="136" font-family="'Courier New',monospace" font-size="14" fill="#94a3b8">LeetCode · Codeforces</text>
+      <rect x="28" y="148" width="284" height="6" rx="3" fill="#1e1b3a"/>
+      <rect x="28" y="148" width="0" height="6" rx="3" fill="#34d399">
+        <animate attributeName="width" from="0" to="284" dur="1.6s" begin="2.4s" fill="freeze"/>
+      </rect>
+    </g>
+  </g>
+  <g transform="translate(800,326)">
+    <g class="fl" style="animation-delay:2.0s">
+      <rect width="340" height="170" rx="18" fill="#0f0c29" stroke="#60a5fa" stroke-opacity="0.7" stroke-width="1.5"/>
+      <rect width="340" height="170" rx="18" fill="#60a5fa" opacity="0.07"/>
+      <rect x="22" y="0" width="296" height="5" rx="2.5" fill="#60a5fa"/>
+      <!-- iso cube -->
+      <g transform="translate(272,62) scale(.95)" color="#60a5fa">
+        <polygon points="0,-40 35,-20 0,0 -35,-20" fill="currentColor"/>
+        <polygon points="-35,-20 0,0 0,40 -35,20" fill="currentColor" fill-opacity=".55"/>
+        <polygon points="35,-20 0,0 0,40 35,20" fill="currentColor" fill-opacity=".3"/>
+      </g>
+      <text x="26" y="78" font-family="'Segoe UI',Verdana,sans-serif" font-size="56" font-weight="800" fill="#60a5fa">10+</text>
+      <text x="28" y="112" font-family="'Segoe UI',Verdana,sans-serif" font-size="17" font-weight="700" fill="#e2e8f0" letter-spacing="1.5">EVENTS ORGANIZED</text>
+      <text x="28" y="136" font-family="'Courier New',monospace" font-size="14" fill="#94a3b8">GDG on Campus · 500+ members</text>
+      <rect x="28" y="148" width="284" height="6" rx="3" fill="#1e1b3a"/>
+      <rect x="28" y="148" width="0" height="6" rx="3" fill="#60a5fa">
+        <animate attributeName="width" from="0" to="284" dur="1.6s" begin="3.0s" fill="freeze"/>
+      </rect>
+    </g>
+  </g>
+</svg>

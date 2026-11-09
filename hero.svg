@@ -1,0 +1,85 @@
+<svg viewBox="0 0 1200 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Meghna Chatterjee - Engineering Intelligence. Governing Autonomy.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0820"/>
+      <stop offset="0.55" stop-color="#1a0f3d"/>
+      <stop offset="1" stop-color="#06222f"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0.55"/>
+    </linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="14"/></filter>
+
+    <!-- isometric cube: top, left, right faces shaded from currentColor -->
+    <g id="cube">
+      <polygon points="0,-40 35,-20 0,0 -35,-20" fill="currentColor" fill-opacity="1"/>
+      <polygon points="-35,-20 0,0 0,40 -35,20" fill="currentColor" fill-opacity="0.55"/>
+      <polygon points="35,-20 0,0 0,40 35,20" fill="currentColor" fill-opacity="0.3"/>
+      <polyline points="-35,-20 0,0 35,-20 M0,0 L0,40" fill="none" stroke="#fff" stroke-opacity="0.35" stroke-width="1"/>
+    </g>
+  </defs>
+
+  <rect width="1200" height="380" fill="url(#bg)"/>
+  <ellipse cx="930" cy="190" rx="330" ry="200" fill="url(#glow)"/>
+
+  <!-- perspective grid floor -->
+  <g stroke="#22d3ee" stroke-opacity="0.28" stroke-width="1" fill="none">
+    <line x1="0" y1="300" x2="1200" y2="300"/>
+    <line x1="0" y1="322" x2="1200" y2="322"/>
+    <line x1="0" y1="350" x2="1200" y2="350"/>
+    <line x1="0" y1="380" x2="1200" y2="380"/>
+    <line x1="600" y1="300" x2="-300" y2="380"/>
+    <line x1="600" y1="300" x2="0" y2="380"/>
+    <line x1="600" y1="300" x2="300" y2="380"/>
+    <line x1="600" y1="300" x2="600" y2="380"/>
+    <line x1="600" y1="300" x2="900" y2="380"/>
+    <line x1="600" y1="300" x2="1200" y2="380"/>
+    <line x1="600" y1="300" x2="1500" y2="380"/>
+  </g>
+  <rect y="300" width="1200" height="80" fill="url(#floor)" opacity="0.35"/>
+
+  <!-- floating 3D cubes -->
+  <g>
+    <g transform="translate(980,150)" color="#a78bfa">
+      <animateTransform attributeName="transform" type="translate" values="980,150;980,128;980,150" dur="4s" repeatCount="indefinite"/>
+      <use href="#cube" transform="scale(1.9)"/>
+    </g>
+    <ellipse cx="980" cy="320" rx="70" ry="12" fill="#a78bfa" opacity="0.25" filter="url(#soft)"/>
+
+    <g transform="translate(1110,95)" color="#22d3ee">
+      <animateTransform attributeName="transform" type="translate" values="1110,95;1110,115;1110,95" dur="3.2s" repeatCount="indefinite"/>
+      <use href="#cube" transform="scale(1.05)"/>
+    </g>
+
+    <g transform="translate(850,95)" color="#f472b6">
+      <animateTransform attributeName="transform" type="translate" values="850,95;850,78;850,95" dur="3.7s" repeatCount="indefinite"/>
+      <use href="#cube" transform="scale(0.8)"/>
+    </g>
+
+    <g transform="translate(1075,265)" color="#34d399">
+      <animateTransform attributeName="transform" type="translate" values="1075,265;1075,248;1075,265" dur="4.6s" repeatCount="indefinite"/>
+      <use href="#cube" transform="scale(0.7)"/>
+    </g>
+
+    <g transform="translate(880,255)" color="#fbbf24">
+      <animateTransform attributeName="transform" type="translate" values="880,255;880,270;880,255" dur="3.9s" repeatCount="indefinite"/>
+      <use href="#cube" transform="scale(0.6)"/>
+    </g>
+  </g>
+
+  <!-- text -->
+  <text x="70" y="120" font-family="'Segoe UI', Verdana, sans-serif" font-size="22" fill="#22d3ee" letter-spacing="6">HELLO WORLD, I AM</text>
+  <text x="70" y="205" font-family="'Segoe UI', Verdana, sans-serif" font-size="78" font-weight="800" fill="url(#title)" letter-spacing="2">MEGHNA</text>
+  <text x="70" y="270" font-family="'Segoe UI', Verdana, sans-serif" font-size="78" font-weight="800" fill="url(#title)" letter-spacing="2">CHATTERJEE</text>
+  <text x="74" y="318" font-family="'Courier New', monospace" font-size="19" fill="#c4b5fd">Full Stack · Machine Learning · AI Infrastructure</text>
+</svg>

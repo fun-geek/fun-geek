@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Meghna Chatterjee - 3D animated banner" width="100%"/>
+<img src="hero.svg" alt="Meghna Chatterjee - 3D animated banner" width="100%"/>
 
 <a href="https://github.com/fun-geek/fun-geek">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Full+Stack+%26+Machine+Learning+Developer;Java+Backend+%C2%B7+Microservices;Building+AI+agents+you+can+actually+govern;Department+Topper+%C2%B7+CGPA+9.5%2F10;Never+I+lose.+Either+I+win+or+I+learn." alt="Typing animation"/>
@@ -28,17 +28,13 @@
 
 ## 🧊 `> whoami`
 
-```ts
-const meghna = {
-  role:      "Full Stack & Machine Learning Developer",
-  studying:  "B.Tech CSE (AI & ML) @ Dr. B. C. Roy Engineering College",
-  cgpa:      9.5,                       // Department Topper, Rank 1
-  leads:     ["Styme", "GDG on Campus BCREC"],
-  buildsWith:["Java", "Python", "Node.js", "React", "PyTorch", "TensorFlow"],
-  obsessedWith: ["AI agent governance", "computer vision", "clean backends"],
-  motto:     "Never I lose — either I win or I learn.",
-};
-```
+<div align="center">
+  <img src="assets/profile-card.svg" alt="Meghna Chatterjee developer profile card" width="100%"/>
+</div>
+
+<br/>
+
+> *B.Tech CSE (AI & ML) @ Dr. B. C. Roy Engineering College · Leading **Styme** and **GDG on Campus BCREC** · Obsessed with AI agent governance, computer vision and clean backends.*
 
 <table>
 <tr>
@@ -215,11 +211,7 @@ Multi-tier club ecosystem with JWT auth and full CRUD tooling.
 ## 🏆 Trophy Room
 
 <div align="center">
-
-| 🥇 | 🎯 | 🎓 | 🧩 |
-|:--:|:--:|:--:|:--:|
-| **4× Hackathon Winner**<br/><sub>Hack Zenith · Hack Maze Campus</sub> | **SIH Internal Finalist**<br/><sub>Smart India Hackathon</sub> | **Department Topper**<br/><sub>CSE (AI & ML) · 9.5 CGPA</sub> | **150+ DSA Solved**<br/><sub>LeetCode · Codeforces</sub> |
-
+  <img src="assets/achievements.svg" alt="Achievements unlocked" width="100%"/>
 </div>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/chatterjeemeghna?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/chatterjeemeghna)
