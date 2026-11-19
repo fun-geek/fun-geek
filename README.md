@@ -164,6 +164,7 @@ I don't believe in stopping at an idea. I believe in understanding the problem, 
 
 **Never I lose. Either I win or I learn.**
 
+
 ---
 
 ## Let's connect
